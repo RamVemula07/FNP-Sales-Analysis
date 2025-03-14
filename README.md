@@ -1,2 +1,2 @@
 # FNP-Sales-Analysis
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](https://github.com/RamVemula07/FNP-Sales-Analysis/blob/main/Screenshot%20(57).png)
